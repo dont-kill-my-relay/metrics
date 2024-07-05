@@ -1,0 +1,5 @@
+fire
+python-dateutil
+tqdm
+requests
+numba
